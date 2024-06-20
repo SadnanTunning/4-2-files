@@ -1,0 +1,20 @@
+- LP Info Sec
+- Remote SOC(Security Operation Center) service - to our subscribers
+->SIEM
+->PAM
+->XDR
+->EDR
+
+- Small business to Large business, Market gap - Increasing as remote service is currently non existing
+- Backdoor.com [Not remote, ours [Remote]
+- Unique selling proposition [Remote]
+
+
+
+1. You must submit a 3 page business proposal containing the followings by 19 March,2024
+
+    The Business Name
+    The problem and the idea,  
+    Target Audience and Market Gap
+    Competitive Landscape (Competitors and how you are different) 
+    Unique Selling Proposition

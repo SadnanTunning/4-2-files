@@ -1,0 +1,44 @@
+1. Class Assessment(3) - 25 marks
+
+2. MCQ test (Lab1- 2 slides, lab2, lab3, lab4, lab5, lab6,
+Creating lexical analyzer using lex: from lab manual)-------------30 marks
+
+3.Assignment on Symbol Table ( based on lab6) + Viva--------------20 marks
+  -insert
+  -display
+  -delete (label or address or both)
+  -modify (label or address or both)
+  -search (label or address or both)
+
+4. Project on Creating Lexical analyzer using C + Report(on Project)+ Viva -------------25 marks
+Sample Input
+
+(The input can be a console Input of a file Input)
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+   sum();
+}
+void sum()
+{
+int a, b, c;
+int a = b*c + 10;
+}
+
+Sample output
+Keyword (2): void, int
+Identifier (4): main, a, b, c
+Arithmetic Operator (3): =, *, +
+Constant (1): 10
+Punctuation (2): ;
+Parenthesis (2): {,}
+function: main, sum
+header: stdio.h, conio.h
+
+* project need to be done in group
+* group member maximum 3
+* one group will submit one report and report must be handwritten by 3 group members.
+
+23-04-24: Project + Report + Viva
+30-04-24: MCQ Test, Assignment + Viva

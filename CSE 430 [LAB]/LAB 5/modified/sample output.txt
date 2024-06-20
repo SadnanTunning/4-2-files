@@ -1,0 +1,30 @@
+Header files:   #include<stdio.h>
+Header files:   #include<conio.h>
+Header files:   #include<ctype.h>
+Header files:   #include<string.h>
+Header files:   #include<stdlib.h>
+keyward: int
+identifier: keyward_library
+parenthesis: (
+keyward: char
+identifier: temp
+parenthesis: [
+parenthesis: ]
+parenthesis: )
+punctuation: ;
+keyward: int
+identifier: a2b
+punctuation: ;
+keyward: int
+identifier: a
+punctuation: ,
+identifier: b
+punctuation: ,
+identifier: c
+punctuation: ;
+identifier: a
+arithmetic operator: =
+identifier: b
+arithmetic operator: +
+identifier: c
+punctuation: ;
